@@ -1,20 +1,23 @@
 # Hi, I'm Chand 👋
 
-I'm a student at **Vishnu Institute of Technology, Bhimavaram**, building projects around autonomous systems and putting them on GitHub as I go.
+I'm a student at **Vishnu Institute of Technology, Bhimavaram**, building projects around autonomous systems and travel tech.
 
-## Highlight
+## Highlights
 
 **[SIH26037 — Adaptive Path Planning](https://github.com/chebroluchand-prog/SIH26037-adaptive-path-planning)**  
-Smart India Hackathon problem on collision avoidance for autonomous vehicles on unstructured Indian roads.  
+Smart India Hackathon: collision avoidance for AVs on unstructured Indian roads.  
 **3rd prize** at Vishnu Institute of Technology, Bhimavaram.
 
-MATLAB stack: class-aware Dynamic Window Approach, six-state driving behavior, sensor fusion, and multi-scenario verification (cattle, village, intersection, highway, market).
+**[Meridian](https://github.com/chebroluchand-prog/meridian-travel)**  
+AI-assisted travel planner (itineraries, maps, weather, saved trips).  
+**2nd prize** at **Prayoga**, ISTE VIT-B, VIT Bhimavaram.
 
 ## Projects
 
 | Repo | What it is |
 | --- | --- |
-| [SIH26037-adaptive-path-planning](https://github.com/chebroluchand-prog/SIH26037-adaptive-path-planning) | SIH 2026 AV path planning & collision avoidance — 3rd prize, VIT Bhimavaram |
+| [SIH26037-adaptive-path-planning](https://github.com/chebroluchand-prog/SIH26037-adaptive-path-planning) | SIH 2026 AV path planning — 3rd prize, VIT Bhimavaram |
+| [meridian-travel](https://github.com/chebroluchand-prog/meridian-travel) | Meridian travel planner — 2nd prize, Prayoga (ISTE VIT-B) |
 | [hello-github](https://github.com/chebroluchand-prog/hello-github) | Small public web starter |
 
 ## Find me
