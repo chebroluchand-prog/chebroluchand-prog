@@ -1,25 +1,47 @@
 # Hi, I'm Chand 👋
 
-I'm a student at **Vishnu Institute of Technology, Bhimavaram**, building projects around autonomous systems and travel tech.
+I'm a student at **Vishnu Institute of Technology, Bhimavaram**, interested in building software that solves real-world problems.
 
-## Highlights
+I explore projects across **AI-powered applications, autonomous systems, full-stack development, and technology-driven solutions**.
 
-**[SIH26037 — Adaptive Path Planning](https://github.com/chebroluchand-prog/SIH26037-adaptive-path-planning)**  
-Smart India Hackathon: collision avoidance for AVs on unstructured Indian roads.  
-**3rd prize** at Vishnu Institute of Technology, Bhimavaram.
+## 🚀 Featured Projects
 
-**[Meridian](https://github.com/chebroluchand-prog/meridian-travel)**  
-AI-assisted travel planner (itineraries, maps, weather, saved trips).  
-**2nd prize** at **Prayoga**, ISTE VIT-B, VIT Bhimavaram.
+### [SIH26037 — Adaptive Path Planning](https://github.com/chebroluchand-prog/SIH26037-adaptive-path-planning)
+A MATLAB-based simulation project focused on adaptive path planning and collision avoidance for autonomous vehicles navigating unstructured Indian roads.
 
-## Projects
+- Developed path-planning and tracking components.
+- Evaluated navigation and collision-avoidance behaviour through simulations.
 
-| Repo | What it is |
-| --- | --- |
-| [SIH26037-adaptive-path-planning](https://github.com/chebroluchand-prog/SIH26037-adaptive-path-planning) | SIH 2026 AV path planning — 3rd prize, VIT Bhimavaram |
-| [meridian-travel](https://github.com/chebroluchand-prog/meridian-travel) | Meridian travel planner — 2nd prize, Prayoga (ISTE VIT-B) |
-| [hello-github](https://github.com/chebroluchand-prog/hello-github) | Small public web starter |
+🏆 **3rd Prize — SIH Internal Hackathon 2026, VIT-B**
 
-## Find me
+**Tech:** MATLAB
 
-- GitHub: [chebroluchand-prog](https://github.com/chebroluchand-prog)
+### [Meridian — AI Travel Planner](https://github.com/chebroluchand-prog/meridian-travel)
+An AI-assisted travel planning application designed to simplify trip planning through personalized itineraries and travel information.
+
+- AI-assisted itinerary planning
+- Maps and weather integration
+- Saved trips
+
+🏆 **2nd Prize — Prayoga, ISTE VIT-B**
+
+### [RelayAid — Disaster Relief Coordination](https://github.com/chebroluchand-prog/relayaid)
+AI-assisted disaster relief coordination platform connecting citizens, volunteers, NGOs and operations teams.
+
+- Emergency request intake and AI-assisted triage
+- Responder matching and coordination
+- Real-time disaster alerts with NDMA Sachet integration
+- Interactive command-center dashboard
+
+**Tech:** React, TypeScript, Firebase, Leaflet
+
+
+
+## 🏆 Achievements
+
+- 🥉 3rd Prize — SIH Internal Hackathon 2026, VIT-B
+- 🥈 2nd Prize — Prayoga, ISTE VIT-B
+
+## 📫 Connect with me
+
+- GitHub: [@chebroluchand-prog](https://github.com/chebroluchand-prog)
